@@ -4,12 +4,12 @@ data_bonusaction = [
         icon: "crossed-swords",
         subtitle: "Use with the Attack action",
         description: "Attack with your off hand",
-        reference: "PHB, pgs. 192,194-195.",
+        reference: "Adventurer's Guide, pg. 446",
         bullets: [
-            "Only usable if you take the <i>Attack</i> action and attack with a light melee weapon that you're holding in one hand.",
-            "Perform a single attack with a different light melee weapon that you're holding in the other hand.",
+            "When you attack with a weapon that does not have the heavy property and is wielded in one hand, you can use a bonus action to attack with a different dual-wielding weapon in your other hand (see the <i>Offhand attack</i> bonus action).",
             "You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.",
-            "If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it."
+            "If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.",
+            "If you have the Extra Attack feature, you can use your bonus action to make two attacks with the weapon in your off-hand."
         ]
     },
     {
@@ -17,7 +17,7 @@ data_bonusaction = [
         icon: "magic-swirl",
         subtitle: "Cast time of 1 bonus action",
         description: "Cast a spell with a casting time of 1 bonus action",
-        reference: "PHB, pg. 192.",
+        reference: "Adventurer's Guide, pg. 459",
         bullets: [
             "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
             "For further details, see the <i>Cast a spell</i> action."
