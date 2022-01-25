@@ -6,7 +6,7 @@ data_condition = [
         description: "You can't see",
         reference: "Adventurer's Guide, pg. 616.",
         bullets: [
-            "A blinded creature can’t see and it automatically fails ability checks that require sight.",
+            "A blinded creature can't see and it automatically fails ability checks that require sight.",
             "You have disadvantage on attack rolls.",
             "Attack rolls against you have advantage."
         ]

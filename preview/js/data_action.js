@@ -198,7 +198,7 @@ data_action = [
     
     {
         title: "Fall Back",
-        icon: "/fast-backward-button",
+        icon: "fast-backward-button",
         subtitle: "Fall back when pressed",
         description: "The target of a Press the Attack action can fall back",
         reference: "Adventurer's Guide, pg. 443",
