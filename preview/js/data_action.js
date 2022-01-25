@@ -242,7 +242,7 @@ data_action = [
         reference: "Adventurer's Guide, pg. 443",
         bullets: [
             "You may not take any other actions, bonus actions or reactions other than your move speed for the turn.",
-            "If you are unencumbered, your Speed is quadrupled for one turn. If you are encumbered or wearing heavyt armor, your Speed is tripled for one turn.",
+            "If you are unencumbered, your Speed is quadrupled for one turn. If you are encumbered or wearing heavy armor, your Speed is tripled for one turn.",
             "You must Sprint in a straight line each turn, although you can change direction each time you Sprint.",
             "You may Sprint for a number of turns equal to your Constitution modifier.",
             "Each turn you Sprint after that, you make a Constitution (Athletics) check (DC 10 + 1 per previous check made in the last minute) or you suffer a level of fatigue.",
