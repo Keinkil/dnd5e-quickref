@@ -66,17 +66,6 @@ data_condition = [
         ]
     },
     {
-        title: "Doomed",
-        icon: "cursed-star",
-        subtitle: "You are doomed",
-        description: "You are doomed",
-        reference: "Adventurer's Guide, pg. 616.",
-        bullets: [
-            "A doomed creature dies at a time determined by the Narrator, or within 13 (2d12) hours.",
-            "A doomed creature continues to be doomed even after it dies. Magic equivalent to a 7th-level or higher spell can remove the doomed condition (such as regenerate cast on a living creature, resurrection, true resurrection, or wish)."
-        ]
-    },
-    {
         title: "Encumbered",
         icon: "hand-truck",
         subtitle: "You are encumbered",
@@ -95,8 +84,9 @@ data_condition = [
         bullets: [
             "<table><tr><th>Level</th><th></th><th></th><th style='text-align:left'>Effect</th></tr><tr><td>1</td><td></td><td></td><td>Cannot Sprint</td></tr><tr><td>2</td><td></td><td></td><td>Disadvantage on Strength, Dexterity and Constitution checks</td></tr><tr><td>3</td><td></td><td></td><td>Speed halved and unable to maintain a fast travel pace</td></tr><tr><td>4</td><td></td><td></td><td>Disadvantage on attack rolls and saving throws using Strength, Dexterity, or Constitution, and unable to maintain a normal travel pace</td></tr><tr><td>5</td><td></td><td></td><td>Hit Dice halved</td></tr><tr><td>6</td><td></td><td></td><td>Speed reduced to 5 ft. and unable to maintain a slow travel pace</td></tr><tr><td>7</td><td></td><td></td><td>Doomed</td></tr></table>",
             "You suffer the effect of your current level of Fatigue as well as all lower levels.",
-            "Finishing a long rest at a safe haven reduces your fatigue level by 1, provided that you have also had some food and drink (Supply).",
-            "Also, being raised from the dead reduces a creature's Fatigue level by 1."
+            "Finishing a long rest at a safe haven reduces your fatigue and strife level by 1, provided that you have also had some food and drink (Supply).",
+            "A creature does not require a haven to recover from the first level of fatigue or strife, but does still require a long rest.",
+            "Also, being raised from the dead reduces a creature's Fatigue and Strife level by 1."
         ]
     },
     {
@@ -242,6 +232,10 @@ data_condition = [
         reference: "Adventurer's Guide, pg. 619.",
         bullets: [
             "<table><tr><th>Level</th><th></th><th></th><th style='text-align:left'>Effect</th></tr><tr><td>1</td><td></td><td></td><td>Disadvantage on Intelligence, Wisdom, and Charisma checks</td></tr><tr><td>2</td><td></td><td></td><td>Disadvantage on concentration checks</td></tr><tr><td>3</td><td></td><td></td><td>Can only take a bonus action or action each turn (not both)</td></tr><tr><td>4</td><td></td><td></td><td>Disadvantage on attack rolls and saving throws using Intelligence, Wisdom, and Charisma</td></tr><tr><td>5</td><td></td><td></td><td>Suffer the effects of a randomly determined short-term mental stress effect. (AG, pg. 620)</td></tr><tr><td>6</td><td></td><td></td><td>Cannot cast spells (but can cast cantrips)</td></tr><tr><td>7</td><td></td><td></td><td>Suffer the effects of a randomly determined long-term mental stress effect. (AG, pg. 621)</td></tr></table>",
+            "You suffer the effect of your current level of Strife as well as all lower levels.",
+            "Finishing a long rest at a safe haven reduces your fatigue and strife level by 1, provided that you have also had some food and drink (Supply).",
+            "A creature does not require a haven to recover from the first level of fatigue or strife, but does still require a long rest.",
+            "Also, being raised from the dead reduces a creature's Fatigue and Strife level by 1."
         ]
     },
     {
