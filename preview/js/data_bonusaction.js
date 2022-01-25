@@ -17,7 +17,7 @@ data_bonusaction = [
         icon: "magic-swirl",
         subtitle: "Cast time of 1 bonus action",
         description: "Cast a spell with a casting time of 1 bonus action",
-        reference: "Adventurer's Guide, pg. 459",
+        reference: "Adventurer's Guide, pg. 442, 491.",
         bullets: [
             "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
             "For further details, see the <i>Cast a spell</i> action."
