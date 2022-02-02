@@ -182,36 +182,6 @@ data_action = [
         ]
     },
     {
-        title: "Press the Attack",
-        icon: "button-finger",
-        subtitle: "Press the Attack",
-        description: "Attempt to hide",
-        reference: "Adventurer's Guide, pg. 443",
-        bullets: [
-            "Before you attack, you can use your bonus action to designate one creature within your reach which is not currently the target of a Press the Attack action",
-            "Until the beginning of your next turn, your melee attacks against that creature gain an expertise die",
-            "While pressing the attack, all attacks against you are made with advantage",
-            "You cannot gain expertise die this way on attacks made with disadvantage",
-            "When you press the attack, your target can *Fall back*",
-        ]
-    },
-    
-    {
-        title: "Fall Back",
-        icon: "fast-backward-button",
-        subtitle: "Fall back when pressed",
-        description: "The target of a Press the Attack action can fall back",
-        reference: "Adventurer's Guide, pg. 443",
-        bullets: [
-            "When you are the target of a *Press the Attack* action, you can use your reaction to yield ground",
-            "You move backwards 5ft",
-            "Your attacker does not gain an expertise die against you from their Press the Attack",
-            "Your attacker can move 5 feet towards you if you fall back",
-            "Neither you, nor your attacker, provoke opportunity attacks from this movement",
-            "A creature using the Rage class feature cannot choose to Fall back"
-        ]
-    },
-    {
         title: "Ready",
         icon: "stopwatch",
         subtitle: "Choose trigger and action",

@@ -23,6 +23,21 @@ data_reaction = [
         ]
     },
     {
+        title: "Fall Back",
+        icon: "fast-backward-button",
+        subtitle: "Fall back when pressed",
+        description: "The target of a Press the Attack action can fall back",
+        reference: "Adventurer's Guide, pg. 443",
+        bullets: [
+            "When you are the target of a *Press the Attack* action, you can use your reaction to yield ground",
+            "You move backwards 5ft",
+            "Your attacker does not gain an expertise die against you from their Press the Attack",
+            "Your attacker can move 5 feet towards you if you fall back",
+            "Neither you, nor your attacker, provoke opportunity attacks from this movement",
+            "A creature using the Rage class feature cannot choose to Fall back"
+        ]
+    },
+    {
         title: "Cast a spell",
         icon: "magic-swirl",
         subtitle: "Cast time of 1 reaction",
